@@ -1,0 +1,70 @@
+    <!-- ==================================================================== -->
+    <!-- <div class="testimonials__review">
+        <p class="testimonials__text">
+            اكتب يا تاريخ عن النادي العريــــق، الذي عودنا على الفوز الأنيـــــق، وعن حقك لا ارض ان يبعدونــــي، فأنت عشقي الأول فلا عنك يبعدونــــي، وسوف اضل اقول كتلونــــي</p>
+        <div class="testimonials__person__info">
+            <span class="testimonials__name">عصام الشوالي</span>
+            <span class="testimonials__job">معلق مباريات</span>
+        </div>
+    </div>
+    <div class="testimonials__image">
+        <img src="img/Issam_Chaouali.png" alt="testimonials">
+        <div class="testimonials__back"></div>
+        <div class="testimonials__back small"></div>
+    </div> -->
+
+
+
+
+    <!-- start testimonials -->
+    <section class="testimonials" id="testimonials">
+        <div class="container">
+            <div class="testimonials__header">
+                <div class="info">
+                    <h3 class="head">الآراء</h3>
+                    <h4 class="big-head">ماذا قال عملائنا ؟</h4>
+                </div>
+            </div>
+            <div class="testimonials__row">
+                <div class="testimonials__slide side--1">
+                    <div class="testimonials__review">
+                        <p class="testimonials__text">
+                            هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها.
+                        </p>
+                        <div class="testimonials__person__info">
+                            <span class="testimonials__name">احمد فرج</span>
+                            <span class="testimonials__job">مبرمج</span>
+                        </div>
+                    </div>
+                    <div class="testimonials__image">
+                        <img src="img/ahmed.jpg" alt="testimonials">
+                        <div class="testimonials__back"></div>
+                        <div class="testimonials__back small"></div>
+                    </div>
+
+                </div>
+
+                <!-- <div class="testimonials__slide side--2">
+                    <div class="testimonials__review">
+                        <p class="testimonials__text">
+                            اكتب يا تاريخ عن النادي العريــــق، الذي عودنا على الفوز الأنيـــــق، وعن حقك لا ارض ان يبعدونــــي، فأنت عشقي الأول فلا عنك يبعدونــــي، وسوف اضل اقول كتلونــــي</p>
+                        <div class="testimonials__person__info">
+                            <span class="testimonials__name">عصام الشوالي</span>
+                            <span class="testimonials__job">معلق مباريات</span>
+                        </div>
+                    </div>
+                    <div class="testimonials__image">
+                        <img src="img/Issam_Chaouali.png" alt="testimonials">
+                        <div class="testimonials__back"></div>
+                        <div class="testimonials__back small"></div>
+                    </div>
+                </div> -->
+
+                <!-- buttons -->
+                <button class="slider__btn slider__btn--left">&larr;</button>
+                <button class="slider__btn slider__btn--right">&rarr;</button>
+                <div class="dots"></div>
+            </div>
+        </div>
+    </section>
+    <!-- End testimonials -->
